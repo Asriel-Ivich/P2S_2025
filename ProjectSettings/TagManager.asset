@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Muerte
+  - Victoria
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Piso
+  - Water
+  - UI
+  - Jugador
+  - Enemigo
+  - "Da\xF1o"
+  - Moneda
+  - Checkpoints
+  - Decoracion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
